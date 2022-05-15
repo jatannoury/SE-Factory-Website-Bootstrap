@@ -1,0 +1,21 @@
+.col-8{
+    width:12.5%;
+}
+.row img{
+    width:20%;
+}
+.row{
+    margin-top: 1%;
+}
+.btn{
+    width:80%;
+    background-color: #18ED18;
+    color:white;
+}
+.container{
+    display: flex;
+    text-align: center;
+    color:rgb(141, 137, 137);    
+    font-weight: 700;
+    padding-top: 4%;
+}
