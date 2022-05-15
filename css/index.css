@@ -91,3 +91,20 @@
     font-size: 200%;
     padding-left:10% ;
 }
+.container2{
+    background-color: #18ED18;
+    text-align: center;
+    margin: 0 0 0 0;
+    
+ }
+ .container2 h2{
+     color:white;
+     font-size: 300%;
+ }
+ .strong{
+     font-weight: 700;
+ }
+ .fsw img, .fcs img{
+     height:100%;
+     width:100%;
+ }
