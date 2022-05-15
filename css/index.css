@@ -2,7 +2,9 @@
     width:12.5%;
 }
 .row img{
-    width:30%;
+    width: 40%;
+    min-height:30%;
+    min-width:30%;
     padding-top: 2%;
 }
 .row{
@@ -14,6 +16,7 @@
     background-color: #18ED18;
     color:white;
     padding-left: 5%;
+    font-weight:00;
 }
 .container{
     display: flex;
@@ -54,5 +57,23 @@
     background-size:cover;
     background-position-x:80% ;
     background-position-y:80% ;
+    
+}
+.box2{
+    text-align: center;
+}
+.percentage{
+    font-size: 400%;
+    font-weight: 700;
+    color: #18ED18;
+}
+.sub-percentage{
+    font-size: 170%;
+    font-weight: 700;
+    color: black;
+}
+.Hr{
+    border-top: 3px solid black;
+    width:5%;
     
 }
