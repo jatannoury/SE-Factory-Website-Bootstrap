@@ -140,4 +140,27 @@
 }
 .quote{
     text-align: center;
+    padding-top: 5%;
+}
+.quote img{
+    width:80%;
+}
+.RP{
+    text-align: center;;
+}
+.RP img{
+    width:80%;
+}
+.b{
+    background-color: #E6E6E6;
+    text-align: center;
+}
+.b img{
+    width: 100%;
+}
+.title{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 300%;
+    font-weight: 700;
 }
